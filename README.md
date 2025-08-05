@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Quick Run
-```
+```bash
 cd ./controlled_sentiment_generation
 python w2s_aligntree.py
 ```
