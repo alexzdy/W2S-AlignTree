@@ -6,7 +6,7 @@ Implementation for "W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for L
 
 🎉 **Accepted as Oral at AAAI 2026.**
 
-Arxiv: W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search.
+\item Paper on arxiv: W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search.
 
 ## 💡 Highlights
 
@@ -18,7 +18,7 @@ Weak → Strong – Small SFT/DPO models or lightweight rewards guide a stronger
 
 Plug-and-play – Drop-in decoding strategy for existing LLM pipelines.
 
-## 🔧 Installation
+## 🛠️ Installation
 
 ```bash
 conda create -n w2s_aligntree python=3.10
@@ -34,3 +34,5 @@ pip install -r requirements.txt
 cd ./controlled_sentiment_generation
 python w2s_aligntree.py
 ```
+
+## 📖 Citation
