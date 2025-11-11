@@ -5,6 +5,7 @@ Implementation for "W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for L
 ## 🗞 News
 
 🎉 Accepted as Oral at AAAI 2026.
+
 Arxiv: W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search.
 
 ## Installation
