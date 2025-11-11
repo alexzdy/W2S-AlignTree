@@ -8,7 +8,7 @@
 
 ## 💡 Highlights
 
- <img src="assets/main.png" alt="Image 1" style="width: 100%;">
+ <img src="assets/main.png" alt="Image 1" style="width: 80%;">
 
 - **First integration of MCTS with Weak-to-Strong Generalization:** W2S-AlignTree pioneers a plug-and-play inference-time alignment framework that combines Monte Carlo Tree Search with weak-to-strong guidance, enabling dynamic, fine-grained control over strong LLMs without any parameter updates.
 
