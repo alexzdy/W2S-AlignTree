@@ -1,4 +1,4 @@
-# AAAI 2026 | W2S-AlignTree
+# AAAI 2026 Oral | W2S-AlignTree
 
 Implementation for "W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search".
 
