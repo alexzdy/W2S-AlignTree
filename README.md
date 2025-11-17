@@ -37,3 +37,15 @@ python w2s_aligntree.py
 ```
 
 ## 📖 Citation
+If you find W2S-AlignTree useful in your research or applications, please consider giving us a star ⭐ and citing it by the following BibTeX entry:
+```
+@misc{ding2025w2saligntreeweaktostronginferencetimealignment,
+      title={W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search}, 
+      author={Zhenyu Ding and Yuhao Wang and Tengyue Xiao and Haoying Wang and Guojun Ma and Mingyang Wan and Caigui Jiang and Ning Ding},
+      year={2025},
+      eprint={2511.11518},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.11518}, 
+}
+```
