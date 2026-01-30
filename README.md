@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - The [`summarization`] directory contains code for using DPO and SFT gpt2 models (124M) to control larger models to generate a summary.
 
 ```bash
-cd ./controlled_sentiment_generation \&& ./summarization
+cd ./controlled_sentiment_generation \&\& ./summarization
 python w2s_aligntree.py
 ```
 
