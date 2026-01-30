@@ -30,9 +30,10 @@ pip install -r requirements.txt
 ## 🚀 Quick Run
 
 - The [`controlled_sentiment_generation`] directory contains code for using DPO and SFT gpt2 models (124M) to control larger models to write positive movie reviews.
+- The [`summarization`] directory contains code for using DPO and SFT gpt2 models (124M) to control larger models to generate a summary.
 
 ```bash
-cd ./controlled_sentiment_generation
+cd ./controlled_sentiment_generation && ./summarization
 python w2s_aligntree.py
 ```
 
